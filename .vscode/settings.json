@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "mycypress",
+            "database": "cypress",
+            "username": "cypress_admin",
+            "password": "cypressrules"
+        }
+    ]
+}

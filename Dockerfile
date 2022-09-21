@@ -1,0 +1,4 @@
+FROM postgres
+ENV POSTGRES_USER cypress_admin
+ENV POSTGRES_PASSWORD cypressrules
+ENV POSTGRES_DB cypress
